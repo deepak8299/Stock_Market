@@ -1,3 +1,4 @@
+#new
 from django.contrib.auth.forms import AuthenticationForm, UserCreationForm
 from django.contrib.auth import login, logout
 from django.shortcuts import render, redirect
